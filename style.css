@@ -1,0 +1,54 @@
+table, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+td {
+width: 100px;
+padding: 5px;
+}
+
+/* Centralizar conteúdo de bloco no meio da página */
+table{
+    margin: 0px auto;
+}
+.centro {
+    text-align: center;
+}
+
+.direita {
+    text-align: end;
+}
+
+.topo {
+width: 600px;
+height: 100px;
+text-align: center;
+}
+
+.menu {
+    width: 30%;
+    height: 500px;
+    text-align: center;
+}
+
+.rodape {
+height: 50px;
+text-align: center;
+}
+
+.conteudo {
+text-align: center;
+}
+
+.tam01 {
+height: 100px;
+width: 0 auto;
+}
+
+.tam02 {
+    height: 100px;
+    width: 20px;
+}
+
+
